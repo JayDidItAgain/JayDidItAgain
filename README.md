@@ -20,3 +20,17 @@
   <img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(1117).gif" width="90"/>
 <img src="https://64.media.tumblr.com/a264c5f2fd19ce4e078e20b2797c7249/f0498cf23374e067-50/s250x400/b0245c978adf25bb61ba778771e5b347bc9f3a1f.gifv" width="90"/>
 <img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(1076).gif" width="90"/>
+<div id="header" align="center">
+<img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(3255).gif" width="90"/>
+  <img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(3503).png" width="90"/>
+<img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(339).png" width="90"/>
+<img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(3589).png" width="90"/>
+<img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(3610).gif" width="90"/>
+<div id="header" align="center">
+<img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(1125).gif" width="90"/>
+<img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(3918).gif" width="90"/>
+<img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(1051).png" width="90"/>
+<img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(429).png" width="90"/>
+<img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(416).png" width="90"/>
+<img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(3164).gif" width="90"/>
+<img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(1165).gif" width="90"/>
