@@ -34,3 +34,14 @@
 <img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(416).png" width="90"/>
 <img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(3164).gif" width="90"/>
 <img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(1165).gif" width="90"/>
+  <div id="header" align="center">
+<img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(4864).gif" width="90"/>
+<img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(513).png" width="90"/>
+<img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(4971).png" width="90"/>
+<img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(4340).gif" width="90"/>
+<img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(5318).png" width="90"/>
+<img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(525).png" width="90"/>
+<img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(430).png" width="90"/>
+<div id="header" align="center">
+<img src="https://i.ibb.co/FDdr2VZ/ilovemusic.png" width="175"/>
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2786354a-12a6-405e-a9b4-2b2679eb374e/d3hhxmn-cb014f66-930f-46f4-919a-e4147521f92f.png/v1/fill/w_100,h_20,q_80,strp/lil_badge___hotdog_by_pokeartkid_d3hhxmn-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjAiLCJwYXRoIjoiXC9mXC8yNzg2MzU0YS0xMmE2LTQwNWUtYTliNC0yYjI2NzllYjM3NGVcL2QzaGh4bW4tY2IwMTRmNjYtOTMwZi00NmY0LTkxOWEtZTQxNDc1MjFmOTJmLnBuZyIsIndpZHRoIjoiPD0xMDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.efeD0QynL_GUu9w8jyi5con7p0tHn3sIkIE7BOri8Lk" width="175"/>
