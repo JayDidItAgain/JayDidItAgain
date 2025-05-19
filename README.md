@@ -10,9 +10,10 @@
 </div>
 <div id="header" align="center">
 <img src="https://files.catbox.moe/u2ws4o.png" width=90"/>
--<img src="https://64.media.tumblr.com/61e84d9173dbfef4803d9e8cb1dbc082/d32a84565059b903-f5/s250x400/47baf3cc706167ed962011fc4af68a9d5cb50a51.gifv" width="90"/>
+-
 <img src="https://s7rwbb3r1.neocities.org/Untitled3_20240821221545.png" width="93"/>
 <img src="https://s7rwbb3r1.neocities.org/Untitled4_20240527170803.png" width="90"/>
+  <img src="https://64.media.tumblr.com/61e84d9173dbfef4803d9e8cb1dbc082/d32a84565059b903-f5/s250x400/47baf3cc706167ed962011fc4af68a9d5cb50a51.gifv" width="90"/>
 <img src="https://s7rwbb3r1.neocities.org/40_by_seweraat-dcm9lt8.png" width="90"/>
 <img src="https://s7rwbb3r1.neocities.org/Untitled4_20240528174928.png" width="90"/>
 -<img src="https://s7rwbb3r1.neocities.org/Untitled3_20240821222407.png" width="90"/>
