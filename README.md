@@ -85,4 +85,4 @@
 <img src="https://64.media.tumblr.com/b4f95e537da039b381c214509e4c7b93/tumblr_pdbh6vX5xh1wjgmklo1_250.gif" width="150"/>
 <img src="https://external-media.spacehey.net/media/sp1BrRWRaQ8ZeKZJp_YvA8UhE3tksFNwWWIxa_JrOOSo=/https://media.everskies.com/QKAIft3yVA_rRceyVKxQ.gif" width="150"/>
 <div id="header" align="center">
-<img src="https://pa1.aminoapps.com/7477/4d6441e14ab5a812efcd9f2306af2669448588f2r1-320-320_hq.gif" width="300"/>
+<img src="https://img1.picmix.com/output/stamp/normal/4/4/1/9/2359144_948e0.gif" width="500"/>
