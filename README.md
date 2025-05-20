@@ -35,19 +35,27 @@
 <img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(416).png" width="90"/>
 <img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(3164).gif" width="90"/>
 <img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(1165).gif" width="90"/>
-  <div id="header" align="center">
-<img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(4864).gif" width="90"/>
-<img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(513).png" width="90"/>
-<img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(4971).png" width="90"/>
-<img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(4340).gif" width="90"/>
-<img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(5318).png" width="90"/>
-<img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(525).png" width="90"/>
-<img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(430).png" width="90"/>
+<div id="header" align="center">
+  <img src="https://64.media.tumblr.com/1e041ba8a6a7ce0f3a65ab5d039f64d8/59840e6362bc73df-d0/s100x200/fe07cb413b6e5b5fa56e6d4914bf3151e877cbd2.gifv" width="90"/>
+  <img src="https://64.media.tumblr.com/a581693b9d613c57a3e5742371134028/59840e6362bc73df-02/s100x200/69cd71791ffefe6c0864c90f6743cee2b7e30040.gifv" width="90"/>
+  <img src="https://64.media.tumblr.com/664e91af4904f70bac49a2859c92ae03/59840e6362bc73df-c5/s100x200/63c396b954cee1e15d6069ecee0dea417f80018a.png" width="90"/>
+  <img src="https://64.media.tumblr.com/b38e3dd53b868d6cca380f1028c907a2/59840e6362bc73df-ac/s100x200/bf8a2e760e666ca8b0566e789ae64c03810025e8.png" width="90"/>
+  <img src="https://64.media.tumblr.com/8cf6438e50bd6a2c7e3fa361f92832f9/59840e6362bc73df-de/s100x200/529a470ca6093b387c20e5bf5ec5800c707fa2f1.gifv" width="90"/>
+  <img src="https://64.media.tumblr.com/dc54caea417db83f65b8677a0eab2917/59840e6362bc73df-21/s100x200/068464a5cdb058c4c5859650dc30ad91576c265c.png" width="90"/>
+  <img src="https://64.media.tumblr.com/e2cc877f98081e498720484f63267d6b/59840e6362bc73df-e3/s100x200/a32e02a1d5ad460db3f870a69d8107b5f4bba8a1.gifv" width="90"/>
 <div id="header" align="center">
 <img src="https://i.ibb.co/FDdr2VZ/ilovemusic.png" width="175"/>
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2786354a-12a6-405e-a9b4-2b2679eb374e/d3hhxmn-cb014f66-930f-46f4-919a-e4147521f92f.png/v1/fill/w_100,h_20,q_80,strp/lil_badge___hotdog_by_pokeartkid_d3hhxmn-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjAiLCJwYXRoIjoiXC9mXC8yNzg2MzU0YS0xMmE2LTQwNWUtYTliNC0yYjI2NzllYjM3NGVcL2QzaGh4bW4tY2IwMTRmNjYtOTMwZi00NmY0LTkxOWEtZTQxNDc1MjFmOTJmLnBuZyIsIndpZHRoIjoiPD0xMDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.efeD0QynL_GUu9w8jyi5con7p0tHn3sIkIE7BOri8Lk" width="175"/>
 <div id="header" align="center">
 <img src="https://camo.githubusercontent.com/bcb04681294d17df19026d606254903e8453e666476a272beb15d2806f313719/68747470733a2f2f6d656469612e74656e6f722e636f6d2f4b325171477a526659476741414141312f626c696e6b6965732d626c696e6b69652e77656270" width="250"/>
+  <div id="header" align="center">
+    <img src="https://64.media.tumblr.com/9bd10d5eea844f81d929016bc16fa6c1/59840e6362bc73df-98/s100x200/dfec5b1aec28802aeebacecd11782f7493284dc1.gifv" width="90"/>
+    <img src="https://64.media.tumblr.com/3af5879ef93e50c553c8fb0879278b10/59840e6362bc73df-c3/s100x200/af1c65473766790c3490badb10aa7fd9645a0f73.gifv" width="90"/>
+    <img src="https://64.media.tumblr.com/c36c282445cdc6151e4a0705fbd012bc/59840e6362bc73df-81/s100x200/c299b8cdca360bfa108a356f2e9b8f062727e378.png" width="90"/>
+    <img src="https://64.media.tumblr.com/f7061477e454544ded2ada2de9e24683/59840e6362bc73df-43/s100x200/c1d3d61c05c314932622a8ccb629935f6de0fa3a.gifv" width="90"/>
+    <img src="https://64.media.tumblr.com/423059b7eaaad24d6b824f3371bd744f/59840e6362bc73df-47/s100x200/ada3e75b2a8dc42e85b57f4297519e4243328f40.png" width="90"/>
+    <img src="https://64.media.tumblr.com/90821a1a086a0f69f46031f055b9dd94/59840e6362bc73df-5d/s100x200/829c51a337b555774a8ed0ef4c56c54fca08d02a.png" width="90"/>
+    <img src="https://64.media.tumblr.com/c1bd1f460c677708fd3ed0e635a2eebb/59840e6362bc73df-b5/s100x200/938bd23b1b678f6060aa7abd93cea2826a91f445.png" width="90"/>
   <div id="header" align="center">
   <img src="https://64.media.tumblr.com/120c22edc95bb1d55297975ce797f25c/21e7d7f7fe34eb58-41/s100x200/5c8005d7dd413baf68f2ace8065a8163f2b82afb.gifv" width="90"/>
   <img src="https://i.ibb.co/JCLc26W/thefrontbottomstalonofthehawk.png" width="90"/>
