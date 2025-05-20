@@ -48,3 +48,14 @@
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2786354a-12a6-405e-a9b4-2b2679eb374e/d3hhxmn-cb014f66-930f-46f4-919a-e4147521f92f.png/v1/fill/w_100,h_20,q_80,strp/lil_badge___hotdog_by_pokeartkid_d3hhxmn-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjAiLCJwYXRoIjoiXC9mXC8yNzg2MzU0YS0xMmE2LTQwNWUtYTliNC0yYjI2NzllYjM3NGVcL2QzaGh4bW4tY2IwMTRmNjYtOTMwZi00NmY0LTkxOWEtZTQxNDc1MjFmOTJmLnBuZyIsIndpZHRoIjoiPD0xMDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.efeD0QynL_GUu9w8jyi5con7p0tHn3sIkIE7BOri8Lk" width="175"/>
 <div id="header" align="center">
 <img src="https://camo.githubusercontent.com/bcb04681294d17df19026d606254903e8453e666476a272beb15d2806f313719/68747470733a2f2f6d656469612e74656e6f722e636f6d2f4b325171477a526659476741414141312f626c696e6b6965732d626c696e6b69652e77656270" width="250"/>
+  <div id="header" align="center">
+  <img src="https://64.media.tumblr.com/120c22edc95bb1d55297975ce797f25c/21e7d7f7fe34eb58-41/s100x200/5c8005d7dd413baf68f2ace8065a8163f2b82afb.gifv" width="90"/>
+  <img src="https://i.ibb.co/JCLc26W/thefrontbottomstalonofthehawk.png" width="90"/>
+  <img src="https://64.media.tumblr.com/c50bdf29db30a11b145ffa82f191ed31/3c74d06b377fdc9b-b2/s250x250_c1/275a1a2dedec62bb9c279192c34cebadf7f33c61.pnj" width="90"/>
+    <img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(127).gif" width="90"/>
+  <img src="https://external-media.spacehey.net/media/sm3j6pUsCQKiqcGfgYBXaMAPZg4rXl93Odm-9AsJhpDw=/https://i.ibb.co/tpMh97t/b1.png" width="90"/>
+  <img src="https://gligar.neocities.org/danger.jpg" width="90"/>
+  <img src="https://64.media.tumblr.com/c7e11d805b3dd320c75f906fc5346429/4ba440d41445f2f4-f5/s100x200/bec742a34fc00f1a9bdcd22b614f2e2cdb13fc94.pnj" width="90"/>
+  <div id="header" align="center">
+  <img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(220).gif" width="90"/>
+  <img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(2175).gif" width="90"/>
